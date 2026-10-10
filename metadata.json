@@ -1,0 +1,6 @@
+{
+  "name": "NavyData Clean - Automated Excel & CSV Data Cleaner",
+  "description": "Upload messy Excel and CSV files to automatically clean, normalize, deduplicate, and restructure spreadsheets into production-ready data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
